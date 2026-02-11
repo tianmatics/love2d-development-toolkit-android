@@ -8,4 +8,4 @@ Visit Release Page for:
 
 # Automated love2d game export using GitHub Action 
 
-Visit {forked from gihub.com/OvalTutu}: 
+Visit {forked from [OvalTutu](https://github.com/Oval-Tutu/bootstrap-love2d-project)}: https://github.com/tianmatics/bootstrap-love2d-project
