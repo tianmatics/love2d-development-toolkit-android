@@ -1,5 +1,5 @@
 # LÖVE2D Development Toolkit for Android 
-Visit Release Page for:
+[Visit Release Page](https://github.com/tianmatics/love2d-development-toolkit-android/releases/tag/love2d-android) for:
 **love2d api.apk** a offline quick reference for love2d api in android!
 **love2d for Android.apk** love2d engine's android edition
 **love2d ide.apk** full  Offline and complete love2d ide in android.
